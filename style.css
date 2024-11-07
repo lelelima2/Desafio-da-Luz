@@ -1,0 +1,10 @@
+body{
+    background-color: black;
+    color: rgb(238, 222, 191);
+    
+}
+img:hover {
+    content: URL(ligado.png);
+    width:10% ;
+    height:10%;
+}
